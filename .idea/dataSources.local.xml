@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - strongtest@localhost" uuid="13ee735e-1008-43e3-9a1f-bdc199aa9ca1">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>strongtest.*</schema-pattern>
+      <default-schemas>strongtest.*</default-schemas>
+    </data-source>
+  </component>
+</project>
